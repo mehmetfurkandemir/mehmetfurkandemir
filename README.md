@@ -18,9 +18,7 @@ Frameworks
 Development Tools
 <p align="left"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> </p>
 AI & Dev Assistants
-<p align="left"> <img src="https://img.shields.io/badge/Cursor%20AI-blueviolet?style=for-the-badge"/> <img src="https://img.shields.io/badge/Claude-FFD700?style=for-the-badge"/> <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=green"/> <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/> </p>
-🔥 My GitHub Stats
-	
+<p align="left"> <img src="https://img.shields.io/badge/Cursor%20AI-blueviolet?style=for-the-badge"/> <img src="https://img.shields.io/badge/Claude-FFD700?style=for-the-badge"/> <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=green"/> <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/> </p>	
 
 ⚡ I developed a Piano Tutorial Application using Kotlin and AI, called Soundly, which led to my full-time hire.
 
@@ -41,8 +39,3 @@ Interactive piano tutorials
 AI-assisted learning
 
 Multi-level lessons for beginners and advanced users
-
-Links / Media:
-
-<p align="left"> <a href="https://github.com/mehmetfurkandemir/PianoTutorialApplication" target="_blank"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a 
- </p> <p align="center"> <img src="YOUR_SCREENSHOT_OR_GIF_HERE" alt="Soundly Screenshot" width="600"/> </p>
